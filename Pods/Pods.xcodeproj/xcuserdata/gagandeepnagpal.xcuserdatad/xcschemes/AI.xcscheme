@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "76EADB9A1E75448800BE9F51"
-               BuildableName = "Traffic Lights.app"
-               BlueprintName = "Traffic Lights"
-               ReferencedContainer = "container:Traffic Lights.xcodeproj">
+               BlueprintIdentifier = "78DD8D1F1498C2CF966A3E5CF392733E"
+               BuildableName = "AI.framework"
+               BlueprintName = "AI"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "76EADB9A1E75448800BE9F51"
-            BuildableName = "Traffic Lights.app"
-            BlueprintName = "Traffic Lights"
-            ReferencedContainer = "container:Traffic Lights.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "76EADB9A1E75448800BE9F51"
-            BuildableName = "Traffic Lights.app"
-            BlueprintName = "Traffic Lights"
-            ReferencedContainer = "container:Traffic Lights.xcodeproj">
+            BlueprintIdentifier = "78DD8D1F1498C2CF966A3E5CF392733E"
+            BuildableName = "AI.framework"
+            BlueprintName = "AI"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "76EADB9A1E75448800BE9F51"
-            BuildableName = "Traffic Lights.app"
-            BlueprintName = "Traffic Lights"
-            ReferencedContainer = "container:Traffic Lights.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
