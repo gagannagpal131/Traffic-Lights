@@ -6,9 +6,9 @@ or green (like traffic lights).
 
 The user can enter phrases in the text field i.e. natural language. phrases can be:-
 
-red :- red, stop, crimson , please stop, i am telling you to go red, time to stop, etc.
-yellow:- yellow,sun ,slow down , please slow down, time to slow down,i am telling you to slow down,etc.
-green:- green, go, please go, time to go,etc.
+RED :- red, stop, crimson , please stop, i am telling you to go red, time to stop, etc.
+YELLOW:- yellow,sun ,slow down , please slow down, time to slow down,i am telling you to slow down,etc.
+GREEN:- green, go, please go, time to go,etc.
 
 After processing the natural language entered in the text field, the application responds accordingly.
 
